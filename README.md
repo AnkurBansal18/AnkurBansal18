@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola, I'm Ankur Bansal ! 👋
 
-<!--
-**AnkurBansal18/AnkurBansal18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Game named as Zombie Smasher.
+- 🌱 I’m currently learning Data structures.
+- 👯 I’m looking to collaborate on Front-End Projects.
+- 🤔 I’m looking for help with Animations.
+- 💬 Ask me about Sports and Tech-related stuff.
+- ⚡ Fun fact: I can play Cricket 13 Hours a day and I love playing FPS games.
+
+### Connect with me:
+https://freepngimg.com/png/69405-network-service-icons-media-youtube-linkedin-computer[Linkedin](www.linkedin.com/in/ankur-bansal-399512186)
+
+
