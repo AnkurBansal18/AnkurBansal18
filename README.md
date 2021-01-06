@@ -2,7 +2,6 @@
 
 
 
-- 🔭 I’m currently working on a Game named as Zombie Smasher.
 - 🌱 I’m currently learning Data structures.
 - 👯 I’m looking to collaborate on Front-End Projects.
 - 🤔 I’m looking for help with Animations.
