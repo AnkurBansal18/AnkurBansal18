@@ -2,10 +2,9 @@
 
 
 
-- 🌱 I’m currently learning Data structures.
-- 👯 I’m looking to collaborate on Front-End Projects.
-- 🤔 I’m looking for help with Animations.
+- 🌱 Constantly learning and growing.
+- 👯 Working with backend technologies.
 - 💬 Ask me about Sports and Tech-related stuff.
-- ⚡ Fun fact: I can play Cricket 10-15 Hours a day and I love playing FPS games.
+- ⚡ Fun fact: I can play Cricket all day long and I love playing FPS games.
 
 
