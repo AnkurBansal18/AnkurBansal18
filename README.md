@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ankur Bansal</h1>
+<h1 align="center">Hola 👋, I'm Ankur Bansal</h1>
 <h3 align="center">A Developer, Fond of Sports.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurbansal18&label=Profile%20views&color=0e75b6&style=flat" alt="ankurbansal18" /> </p>
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Backend development**
 
-- 📫 How to reach me **iamankurbansal.18@gmail.com**
+- 📫 Contact me at **iamankurbansal.18@gmail.com**
 
 - ⚡ Fun fact **I can beat you in your favourite sport:)**
 
