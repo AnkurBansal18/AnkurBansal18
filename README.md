@@ -6,8 +6,6 @@
 
 
 
-- 🔭 I’m currently working on **A Doctor's QA app.**
-
 - 💬 Ask me about **Backend development**
 
 - 📫 Contact me at **iamankurbansal.18@gmail.com**
